@@ -61,20 +61,42 @@ I am currently working toward becoming a Machine Learning Engineer and AI Resear
 </div>
 ---
 
-### 📊 Data Analysis & Mathematics
+## 📊 Data Analysis
 
 <div align="center">
 
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-00C7B7?style=for-the-badge)
-![EDA](https://img.shields.io/badge/EDA-00FF88?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-00CFFF?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistics-6C63FF?style=for-the-badge)
-![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-FF6B6B?style=for-the-badge)
-![Calculus](https://img.shields.io/badge/Calculus-FFA500?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=seaborn\&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge\&logo=scipy\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
 </div>
 
+**Data Analysis Stack:**
+Python → NumPy → Pandas → Matplotlib → Seaborn → SciPy → SQL → Excel → Power BI
+
 ---
+
+## 🧮 Mathematics
+
+<div align="center">
+
+![Calculus](https://img.shields.io/badge/Calculus-00599C?style=for-the-badge\&logo=wolframmathematica\&logoColor=white)
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-8E44AD?style=for-the-badge\&logo=matrix\&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-2E8B57?style=for-the-badge\&logo=googleanalytics\&logoColor=white)
+
+</div>
+
+**Mathematical Foundations:**
+
+* Calculus
+* Linear Algebra
+* Statistics
 
 ### ⚙️ Backend & Development
 
